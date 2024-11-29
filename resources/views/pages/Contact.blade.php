@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Golddit-Pricing</title>
+	<title>Golddit-Contact Us</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
@@ -28,22 +28,10 @@
 	<link rel="stylesheet" href="assets/css/meanmenu.min.css" type="text/css" media="all" />
 	<!-- Main Style CSS -->
 	<link rel="stylesheet"  href="style.css" type="text/css" media="all" />
-
-    <link rel="stylesheet"  href="style_new.css" type="text/css" media="all" />
-
-    <link rel="stylesheet"  href="responsive.css" type="text/css" media="all" />
-
-    <link rel="stylesheet"  href="aos.css" type="text/css" media="all" />
-
-    <link rel="stylesheet"  href="select2.min.css" type="text/css" media="all" />
-
-    <link rel="stylesheet"  href="swiper-bundle.min.css" type="text/css" media="all" />
 	<!-- venobox CSS -->
 	<link rel="stylesheet" href="venobox/venobox.css" type="text/css" media="all" />
 	<!-- responsive CSS -->
 	<link rel="stylesheet" href="assets/css/responsive.css" type="text/css" media="all" />
-    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
-    
 </head>
 <body>
 
@@ -136,16 +124,16 @@
 
 <!-- ===============//breatcome area start here \\================= -->
 <div class="clearfix" style="clear: both;"></div>
-<div class="breatcome-area d-flex align-items-center">
+<div class="breatcome-area style-two d-flex align-items-center">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <div class="breatcome-content text-center">
                     <div class="breatcome-title">
-                        <h1>Pricing</h1>
+                        <h1>Contact Us</h1>
                     </div>
                     <div class="breatcome-text">
-                        <a href=""><span>Home</span> Pricing</a>
+                        <a href=""><span>Home</span> Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -156,205 +144,73 @@
 <!-- ===============//breatcome section end here \\================= -->
 
 <!--==================================================-->
-<!-- Start Cryptobit pricing Area -->
+<!-- Start cryptobit contact info Area -->
 <!--==================================================-->
-<div class="pricing-area pt-100 pb-70">
+<div class="contact-info-area pt-100 pb-70">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
-                <div class="dreamit-section-title upper1 text-center pb-40">
-                    <h4>Pricing Plan</h4>
-                    <h1 class="section-title">Crypto Pricing Plan</h1>
-                    <p class="section-text">Cryptocurrencies are used primarily outside existing banking and coin governmental institutions and are exchanged</p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-4 col-md-6 col-sm-12 pt-left pl-0 pr-0">
-                <div class="pricing-single-box">
-                    <!-- pricing top -->
-                    <div class="pricing-top-ber">
-                        <div class="pricing-head">
-                            <div class="pricing-title">
-                                <h3>BASIC</h3>
-                            </div>
-                        </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="contact-info-single-box wow fadeInLeft" data-wow-delay=".3s">
+                    <div class="contact-info-thumb">
+                        <img src="assets/images/resource/contact-1.png" alt="">
                     </div>
-                    <div class="pricing-items">
-                        <div class="pricing-items-title">
-                            <h3>Powerful Design</h3>
-                            <p>[Elementor Pro]</p>
-                        </div>
-                        <div class="pricing-items-center">
-                            <span class="curencyp">$</span>
-                            <span class="tk">5.68</span>
-                            <span class="monthp"> / Project</span>
-                        </div>
-                    </div>
-                    <!-- pricing boody -->
-                    <div class="pricing-boody">
-                        <div class="pricing-featur">
-                            <ul>
-                                <li><span><i class="fas fa-check"></i></span> Wordpress Installation</li>
-                                <li><span><i class="fas fa-check"></i></span> Theme Upload & Customize</li>
-                                <li><span><i class="fas fa-check"></i></span> Server Installation</li>
-                                <li><span><i class="fas fa-check"></i></span> Dedicated Supports</li>
-                                <li class="price-icon-text"><span class="price-icon-text"><i class="fi fi-rr-cross"></i></span> Lifetime Gurenty</li>
-                            </ul>
-                        </div>
-                        <div class="pricing-button">
-                            <a href="#">Purches Now</a>
-                        </div>
-                        <div class="pricing-hide"></div>
-                    </div>
-                </div>
-            </div>
-             <div class="col-lg-4 col-md-6 col-sm-12 pt-left pl-0 pr-0">
-                <div class="pricing-single-box active">
-                    <!-- pricing top -->
-                    <div class="pricing-top-ber">
-                        <div class="pricing-head">
-                            <div class="pricing-title">
-                                <h3>STANDARD</h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="pricing-items">
-                        <div class="pricing-items-title">
-                            <h3>Wallet Developed</h3>
-                            <p>[Elementor Pro]</p>
-                        </div>
-                        <div class="pricing-items-center">
-                            <span class="curencyp">$</span>
-                            <span class="tk">9.83</span>
-                            <span class="monthp"> / Project</span>
-                        </div>
-                    </div>
-                    <!-- pricing boody -->
-                    <div class="pricing-boody">
-                        <div class="pricing-featur">
-                            <ul>
-                                <li><span><i class="fas fa-check"></i></span> Wordpress Installation</li>
-                                <li><span><i class="fas fa-check"></i></span> Theme Upload & Customize</li>
-                                <li><span><i class="fas fa-check"></i></span> Server Installation</li>
-                                <li><span><i class="fas fa-check"></i></span> Dedicated Supports</li>
-                                <li><span class="price-icon-text"><i class="fi fi-rr-cross"></i></span> Lifetime Gurenty</li>
-                            </ul>
-                        </div>
-                        <div class="pricing-button">
-                            <a href="#">Purches Now</a>
-                        </div>
-                        <div class="pricing-hide"></div>
-                    </div>
-                </div>
-            </div>
-             <div class="col-lg-4 col-md-6 col-sm-12 pt-left pl-0 pr-0">
-                <div class="pricing-single-box">
-                    <!-- pricing top -->
-                    <div class="pricing-top-ber">
-                        <div class="pricing-head">
-                            <div class="pricing-title">
-                                <h3>PREMIUM</h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="pricing-items">
-                        <div class="pricing-items-title">
-                            <h3>Money Exchange</h3>
-                            <p>[Elementor Pro]</p>
-                        </div>
-                        <div class="pricing-items-center">
-                            <span class="curencyp">$</span>
-                            <span class="tk">9.98</span>
-                            <span class="monthp"> / Project</span>
-                        </div>
-                    </div>
-                    <!-- pricing boody -->
-                    <div class="pricing-boody">
-                        <div class="pricing-featur">
-                            <ul>
-                                <li><span><i class="fas fa-check"></i></span> Wordpress Installation</li>
-                                <li><span><i class="fas fa-check"></i></span> Theme Upload & Customize</li>
-                                <li><span><i class="fas fa-check"></i></span> Server Installation</li>
-                                <li><span><i class="fas fa-check"></i></span> Dedicated Supports</li>
-                                <li class="price-icon-text"><span class="price-icon-text"><i class="fi fi-rr-cross"></i></span> Lifetime Gurenty</li>
-                            </ul>
-                        </div>
-                        <div class="pricing-button">
-                            <a href="#">Purches Now</a>
-                        </div>
-                        <div class="pricing-hide"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!--==================================================-->
-<!--End Cryptobit pricing Area -->
-<!--==================================================-->
-
-<!--==================================================-->
-<!-- Start Cryptobit counter Area -->
-<!--==================================================-->
-<div class="call-do-action-area pt-90 pb-110">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-md-6">
-                <div class="call-do-action-content">
-                    <div class="call-do-action-title">
-                        <h1>Looking for Crypto Expert?</h1>
-                    </div>
-                    <div class="call-do-action-text">
-                        <p>Progressively predominate performance based internal organic currency <br> sources before high standards architectures.</p>
+                    <div class="contact-info-title">
+                        <h2>Address Ifno</h2>
+                        <p>3281 Steve Hunts, Market Florida, FL 33176</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="call-do-button">
-                    <a href="#">Contact Us</a>
+                <div class="contact-info-single-box wow fadeInLeft" data-wow-delay=".4s">
+                    <div class="contact-info-thumb">
+                        <img src="assets/images/resource/contact-2.png" alt="">
+                    </div>
+                    <div class="contact-info-title">
+                        <h2>Phone Calls</h2>
+                        <p>+98 (5784) 123 789 <br> +88 (3412) 876 346</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="contact-info-single-box wow fadeInLeft" data-wow-delay=".5s">
+                    <div class="contact-info-thumb">
+                        <img src="assets/images/resource/contact-3.png" alt="">
+                    </div>
+                    <div class="contact-info-title">
+                        <h2>E-Mail Address</h2>
+                        <p>example@gmail.com yourmail@yahoo.com</p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
 <!--==================================================-->
-<!-- End Cryptobit counter Area -->
+<!-- End cryptobit contact info Area -->
 <!--==================================================-->
 
-<!-- ===============//faq section start here \\================= -->
+<!--==================================================-->
+<!-- Start Cryptobit contact Area -->
+<!--==================================================-->
 <div class="contact-form-area style-two pt-100 pb-100">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
-                <div class="dreamit-section-title text-center upper1 pb-70" data-wow-delay=".3s">
-                    <h4>FAQ</h4>
-                    <h1 class="section-title">Frequently Q/A</h1>
-                    <p class="section-text">Globally network emerging action items with best-of-breed core <br>Efficiently build end-to-end mindshare</p>
-                </div>
+            <div class="dreamit-section-title text-center upper1 pb-70">
+                <h4>Contact Info</h4>
+                <h1 class="section-title">Write Us Something</h1>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12">
-                <div class="accordion-menu wow fadeInLeft" data-wow-delay=".5s">
-                    <ul class="accordion">
-                        <li>
-                            <a>What is Blockchain?</a>
-                            <p>Globally network emerging action items with best-of-breed core Efficiently build end-to-end mindshare cultivate top-line web-readiness before 24/7 scenarios.</p>
-                        </li>
-                        <li>
-                            <a>Can I Transections Using Tokens?</a>
-                            <p>Globally network emerging action items with best-of-breed core Efficiently build end-to-end mindshare cultivate top-line web-readiness before 24/7 scenarios.</p>
-                        </li>
-                        <li>
-                            <a>How can I create a crypto-wallet?</a>
-                            <p>Globally network emerging action items with best-of-breed core Efficiently build end-to-end mindshare cultivate top-line web-readiness before 24/7 scenarios.</p>
-                        </li>
-                    </ul>
+                <div class="contact-form-thumb wow fadeInRight" data-wow-delay=".4s">
+                    <img src="assets/images/resource/cartoon-bg.png" alt="">
+                    <div class="form-inner-thumb bounce-animate3">
+                        <img src="assets/images/resource/cartoon.png" alt="">
+                    </div>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12">
-            <div class="row">
+                <div class="row">
                     <div class="contact-form-box wow fadeInLeft" data-wow-delay=".4s">
                          <div class="contact-form-title">
                             <h3>Get In Touch</h3>
@@ -389,11 +245,13 @@
                         <div id="status"></div>
                     </div>
                 </div>
-            </div>
+            </div>  
         </div>
     </div>
 </div>
-<!-- ===============//faq section end here \\=================== -->
+<!--==================================================-->
+<!-- Start Cryptobit contact Area -->
+<!--==================================================-->
 
 <!--==================================================-->
 <!-- Start Cryptobit Footer Middle Area -->
@@ -402,7 +260,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="widgets-company-info pt-3 wow fadeInLeft" data-wow-delay=".4s">
+				<div class="widgets-company-info  pt-3 wow fadeInLeft" data-wow-delay=".4s">
 					<div class="cryptobit-logo">
 						<a class="logo_img" href="index.html" title="cryptobit">
 							<img src="assets/images/logo2.png" alt="" />
@@ -456,13 +314,12 @@
                                 <p>Get now free 20% discount for all products on your first order</p>
                             </div>
                             <div class="contact-form-box-2 text-center">
-                                <form action="https://formspree.io/f/myyleorq" method="POST" id="dreamit-form">
+                                <form>
                                     <div class="from-box1">
                                         <input type="text" placeholder="Enter Your E-Mail">
                                         <button><i class="fa fa-paper-plane"></i></button>  
                                     </div>
                                 </form>
-                                <div id="status"></div>
                             </div>
                         </div> 
                     </div>
@@ -473,7 +330,7 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="footer-bottom-content">
 					<div class="footer-bottom-content-copy">
-                          <p>© 2024 All Rights Reserved. By: <span>TRIO DEV</span></p>
+                         <p>© 2024 All Rights Reserved. By: <span>TRIO DEV</span></p>
 					</div>
 				</div>
 			</div>
@@ -543,22 +400,11 @@
 	<script src="assets/js/jquery.scrollUp.js"></script>
 	<!-- theme js -->	
 	<script src="assets/js/theme.js"></script>
+	<!-- range js -->	
+	<script src="assets/js/range.js"></script>
 	<!-- barfiller js -->
 	<script src="assets/js/jquery.barfiller.js"></script>
+  <!--jave script -->
 
-     <!--jave script -->
-    <script>
-        $(window).on('scroll', function () {
-            var scrolled = $(window).scrollTop();
-            if (scrolled > 300) $('.go-top').addClass('active');
-            if (scrolled < 300) $('.go-top').removeClass('active');
-        });
-
-        $('.go-top').on('click', function () {
-            $("html, body").animate({
-                scrollTop: "0"
-            }, 1200);
-        });
-    </script>
 </body>
 </html>

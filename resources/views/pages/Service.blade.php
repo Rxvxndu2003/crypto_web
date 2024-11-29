@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Cryptobit Marketplace HTML5 Template</title>
+	<title>Golddit-Service</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
@@ -90,9 +90,9 @@
                                 <li><a href="team.html">Mastery Level</a></li>
                             </ul>
                         </li>
-                        <li><a href="#">Blog</a>
+                        <li><a href="/blog">Blog</a>
                         </li>
-                        <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="/contact">Contact Us</a></li>
                     </ul>
                     <div class="header-button upper1">
                         <a href="#">Login</a>
@@ -123,9 +123,9 @@
                                 <li><a href="team.html">Mastery Level</a></li>
                             </ul>
                 </li>
-                <li><a href="#">Blog</a>
+                <li><a href="/blog">Blog</a>
                 </li>
-                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="/contact">Contact Us</a></li>
             </ul>
         </nav>
     </div>

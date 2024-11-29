@@ -25,4 +25,19 @@ class TemplateController extends Controller
     {
         return view('pages.Pricing');
     }
+
+    public function blog()
+    {
+        return view('pages.Blog');
+    }
+
+    public function blogdetails()
+    {
+        return view('pages.Blog_Details');
+    }
+
+    public function contact()
+    {
+        return view('pages.Contact');
+    }
 }

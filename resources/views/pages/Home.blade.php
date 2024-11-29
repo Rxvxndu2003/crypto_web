@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Golddit</title>
+	<title>Golddit-Home</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
@@ -78,9 +78,9 @@
                                 <li><a href="team.html">Mastery Level</a></li>
                             </ul>
                         </li>
-                        <li><a href="#">Blog</a>
+                        <li><a href="/blog">Blog</a>
                         </li>
-                        <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="/contact">Contact Us</a></li>
                     </ul>
                     <div class="header-button upper1">
                         <a href="#">Login</a>
@@ -111,9 +111,9 @@
                                 <li><a href="team.html">Mastery Level</a></li>
                             </ul>
                 </li>
-                <li><a href="#">Blog</a>
+                <li><a href="/blog">Blog</a>
                 </li>
-                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="/contact">Contact Us</a></li>
             </ul>
         </nav>
     </div>
@@ -134,13 +134,13 @@
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <div class="hero-content wow fadeInDown" data-wow-delay=".3">
                             <div class="hero-title">
-                                <h1>Experience of</h1>
-                                <h1>Digital Transection</h1>
-                                <h3>Blockchain</h3>
+                                <h1>Unlock Profits</h1>
+                                <h1>With Gold Signals</h1>
+                                <h3>Golddit</h3>
                                 <div class="shape"></div>
                             </div>
                             <div class="hero-text">
-                                <p>Cryptography, encryption process of transforming information <br> referred to as plaintext) using done.</p>
+                                <p>Real-Time gold trading signals to help you maximize profits <br> Join us today and start trading like a pro.</p>
                             </div>
                             <div class="hero-button">
                                 <a href="#">Get Started Now</a>
@@ -189,9 +189,9 @@
         <div class="row">
              <div class="col-lg-12 col-sm-12">
                  <div class="dreamit-section-title style-two text-center pb-65">
-                    <h4>CRYPTOBIT FEATURES</h4>
-                    <h1>The most trusted way for</h1>
-                    <h1>Powerfull Influence</h1>
+                    <h4>GOLDDIT FEATURES</h4>
+                    <h1>Start Getting Free Gold Signals</h1>
+                    <h1>With Golddit</h1>
                 </div>
             </div>
         </div>
@@ -203,8 +203,8 @@
                             <i class="flaticon flaticon-layers restly-flaticon"></i>
                         </div>
                         <div class="feature-title">
-                            <h3>Transparency</h3>
-                            <p>Cryptography, encryption process referred to as plaintext</p>
+                            <h3>Profitable Signals</h3>
+                            <p>Daily, high-quality signals. No overtrading, just results.</p>
                         </div>
                     </div>
                 </div>
@@ -216,8 +216,8 @@
                             <i class="flaticon-file"></i>
                         </div>
                         <div class="feature-title">
-                            <h3>External Method</h3>
-                            <p>Cryptography, encryption process referred to as plaintext</p>
+                            <h3>Expert Analysis</h3>
+                            <p>8 years of trading, 5 in gold expert insights for success.</p>
                         </div>
                     </div>
                 </div>
@@ -229,8 +229,8 @@
                             <i class="flaticon flaticon-shield-1 restly-flaticon"></i>
                         </div>
                         <div class="feature-title">
-                            <h3>High Security</h3>
-                            <p>Cryptography, encryption process referred to as plaintext</p>
+                            <h3>Strong Community</h3>
+                            <p>Fast-growing business with members in 85+ countries</p>
                         </div>
                     </div>
                 </div>
@@ -268,10 +268,10 @@
                 <div class="row wow fadeInLeft" data-wow-delay=".4s">
                     <div class="col-lg-12">
                          <div class="dreamit-section-title style-two pb-2">
-                            <h4>TRANSACTIONS</h4>
-                            <h1>Blockchain will Record</h1>
-                            <h1>All Transactions</h1>
-                            <p class="section-text">Rapidiously enhance B2C e-services before multifunctional partnerships. Energistically fabricate cross functional resources rather than excellent interfaces. Enthusiastically brand.</p>
+                            <h4>PREMIUM</h4>
+                            <h1>Want Higher Profits</h1>
+                            <h1>Try VIP Signals</h1>
+                            <p class="section-text">VIP signals are highly profitable, tailored for individuals seeking to maximize returns by mirroring the strategies of our expert traders.</p>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -280,7 +280,7 @@
                                 <i class="flaticon-light-bulb"></i>
                             </div>
                             <div class="about-title">
-                                <h4>Exchange Value</h4>
+                                <h4>Telegram Alerts</h4>
                             </div>
                         </div>
                     </div>
@@ -290,7 +290,7 @@
                                 <i class="flaticon-support-3"></i>
                             </div>
                             <div class="about-title">
-                                <h4>User Secuirity</h4>
+                                <h4>Expert Support</h4>
                             </div>
                         </div>
                     </div>
@@ -300,7 +300,7 @@
                                 <i class="flaticon-hand-shake"></i>
                             </div>
                             <div class="about-title">
-                                <h4>User Dashboard</h4>
+                                <h4>Risk Management</h4>
                             </div>
                         </div>
                     </div>
@@ -310,12 +310,12 @@
                                 <i class="flaticon-time-3"></i>
                             </div>
                             <div class="about-title">
-                                <h4>Asset Registries</h4>
+                                <h4>Timely Updates</h4>
                             </div>
                         </div>
                     </div>
                     <div class="about-button2 wow fadeInLeft" data-wow-delay=".9s">
-                        <a href="#">Contact More</a>
+                        <a href="#">Get Started</a>
                     </div>
                 </div>
             </div>
@@ -334,23 +334,23 @@
         <div class="row">
             <div class="col-lg-12 col-sm-12">
                  <div class="dreamit-section-title text-center style-two pb-5 wow fadeInLeft" data-wow-delay=".3s">
-                    <h4>CRYPTOBIT SERVICE</h4>
-                    <h1>The Heart of the Blockchain</h1>
-                    <h1>of Value Chain</h1>
-                    <p class="section-text">Rapidiously enhance service before multifunctional partnerships. Energistically fabricate cross functional resources .</p>
+                    <h4>TRAIL SIGNALS</h4>
+                    <h1>How Our Free Signals Work</h1>
+                    <h1>It's simple & easy</h1>
+                    <p class="section-text">Join Our Exclusive Free Signals Channel and Get Daily Gold Trading Signals to Enhance Your Profits.</p>
                 </div>
             </div>
         </div>
         <div class="row service-bg wow fadeInLeft" data-wow-delay=".5s">
              <div class="col-lg-6 col-md-6 col-sm-12">
                  <div class="dreamit-section-title style-two">
-                    <h1>Blockchain have</h1>
-                    <h1>Record All Coin</h1>
-                    <h1>Transaction</h1>
-                    <p class="service-text">Monotonectally conceptualize value-added benefits <br> process-centric infrastructure. Uniquely fashion orth <br> whereas pandemic metrics.</p>
+                    <h1>Join the Telegram</h1>
+                    <h1>Gold Trading</h1>
+                    <h1>Group Now</h1>
+                    <p class="service-text">Free XAU/USD Signals via the Telegram Channel. <br> Get 1-2 Live Gold Signals Daily, Exclusively on the <br> Free Golddit Channel.</p>
                 </div>
                  <div class="about-button2">
-                    <a href="#">More Details</a>
+                    <a href="#">JOIN FREE</a>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12">
@@ -387,9 +387,9 @@
         <div class="row">
              <div class="col-lg-12 col-sm-12">
                  <div class="dreamit-section-title text-center style-two pb-5 wow fadeInLeft" data-wow-delay=".3s">
-                    <h4>WORK PROCESS</h4>
-                    <h1>Blockchain work Process</h1>
-                    <p class="section-text">Rapidiously enhance service before multifunctional partnership cryptocurrency Energistically fabricate cross functional author done.</p>
+                    <h4>How It Works</h4>
+                    <h1>How to Start Gold Trading</h1>
+                    <p class="section-text">Our expert traders deliver 3-4 live signals daily via the Telegram app. With a 91.4% win rate and easy to follow signals, even beginners can succeed.</p>
                 </div>
             </div>
         </div>
@@ -406,10 +406,10 @@
                             </div>
                             <div class="single-process-content">
                                 <div class="process-title">
-                                    <h4>Join Crypto</h4>
+                                    <h4>Join Golddit</h4>
                                 </div>
                                 <div class="process-text">
-                                    <p>Multifunctional partnershi Cryptocurrency</p>
+                                    <p>Maximize your returns with profitable strategies.</p>
                                 </div>
                             </div>
                         </div>
@@ -424,10 +424,10 @@
                             </div>
                             <div class="single-process-content">
                                 <div class="process-title">
-                                    <h4>Colect Bitcoin</h4>
+                                    <h4>Choose Broker</h4>
                                 </div>
                                 <div class="process-text">
-                                    <p>Multifunctional partnershi Cryptocurrency</p>
+                                    <p>Choose trusted broker to start your trades.</p>
                                 </div>
                             </div>
                         </div>
@@ -442,10 +442,10 @@
                             </div>
                             <div class="single-process-content">
                                 <div class="process-title">
-                                    <h4>Start Selling</h4>
+                                    <h4>Start Trading</h4>
                                 </div>
                                 <div class="process-text">
-                                    <p>Multifunctional partnershi Cryptocurrency</p>
+                                    <p>Follow signals and execute trades confidently.</p>
                                 </div>
                             </div>
                         </div>
@@ -460,10 +460,10 @@
                             </div>
                             <div class="single-process-content">
                                 <div class="process-title">
-                                    <h4>Paid Member</h4>
+                                    <h4>Grab Profits</h4>
                                 </div>
                                 <div class="process-text">
-                                    <p>Multifunctional partnershi Cryptocurrency</p>
+                                    <p>Maximize your returns with profitable strategies.</p>
                                 </div>
                             </div>
                         </div>
@@ -486,7 +486,7 @@
              <div class="col-lg-6 col-md-6">
                  <div class="dreamit-section-title style-two pb-5">
                     <h4>CLIENT STORY</h4>
-                    <h1>Cryptobit Clients</h1>
+                    <h1>Golddit Clients</h1>
                     <h1>Testimonials</h1>
                 </div>
             </div>
@@ -518,7 +518,7 @@
                                 </div>
                                 <div class="testimonial-content">
                                     <div class="testimonial-title">
-                                        <h3>Devid Alexon</h3> 
+                                        <h3>Mark L.</h3> 
                                     </div>
                                     <div class="testi-icon">
                                         <i class="fas fa-star"></i>
@@ -528,14 +528,15 @@
                                         <i class="fas fa-star-half-alt"></i>
                                     </div>
                                     <div class="testimonial-text">
-                                        <p>Cryptobit App Users</p>
+                                        <p>Gold Trader</p>
                                     </div>
                                 </div>
                                  <div class="qoute-icon">
                                      <i class="fas fa-quote-right"></i>
                                  </div>
                                  <div class="testi-text">
-                                     <p>Authoritatively aggregate diverse ideas without backward-compatible growth strategies. Efficiently cultivator harness 24/7 interfaces via interdependent experiences. Dynamically repurpose bricks-and-clicks -critical sells content before market-driven deliverables testing procedures via value-added core competencies. done at the monotonectally visualize impactful.</p>
+                                     <p>“Highly Accurate Gold Signals!
+                                     I’ve been using the gold trading signals from Goddit.com for the past few weeks, and the results have been incredible. The signals are timely, accurate, and easy to follow. I’ve seen a consistent rise in my profits, and the educational content has helped me improve my trading strategies. I highly recommend this service to anyone serious about trading gold!”</p>
                                  </div>
                             </div>
                         </div>
@@ -546,7 +547,7 @@
                                 </div>
                                 <div class="testimonial-content">
                                     <div class="testimonial-title">
-                                        <h3>Devid Alexon</h3> 
+                                        <h3>Sara p.</h3> 
                                     </div>
                                     <div class="testi-icon">
                                         <i class="fas fa-star"></i>
@@ -556,14 +557,15 @@
                                         <i class="fas fa-star-half-alt"></i>
                                     </div>
                                     <div class="testimonial-text">
-                                        <p>Cryptobit App Users</p>
+                                        <p>New Trader</p>
                                     </div>
                                 </div>
                                  <div class="qoute-icon">
                                      <i class="fas fa-quote-right"></i>
                                  </div>
                                  <div class="testi-text">
-                                     <p>Authoritatively aggregate diverse ideas without backward-compatible growth strategies. Efficiently cultivator harness 24/7 interfaces via interdependent experiences. Dynamically repurpose bricks-and-clicks -critical sells content before market-driven deliverables testing procedures via value-added core competencies. done at the monotonectally visualize impactful.</p>
+                                     <p>“Exceptional Service and Results!”
+                                     “As a beginner in gold trading, I was struggling to get consistent results. After subscribing to Goddit’s gold signals, my trading has drastically improved. The signals are clear, well-explained, and incredibly accurate. It feels great to finally have a reliable resource to guide me in my trades. I’ve already made significant profits and am excited for what’s to come!”</p>
                                  </div>
                             </div>
                         </div>
@@ -574,7 +576,7 @@
                                 </div>
                                 <div class="testimonial-content">
                                     <div class="testimonial-title">
-                                        <h3>Devid Alexon</h3> 
+                                        <h3>James T.</h3> 
                                     </div>
                                     <div class="testi-icon">
                                         <i class="fas fa-star"></i>
@@ -584,14 +586,16 @@
                                         <i class="fas fa-star-half-alt"></i>
                                     </div>
                                     <div class="testimonial-text">
-                                        <p>Cryptobit App Users</p>
+                                        <p>Experienced Trader</p>
                                     </div>
                                 </div>
                                  <div class="qoute-icon">
                                      <i class="fas fa-quote-right"></i>
                                  </div>
                                  <div class="testi-text">
-                                     <p>Authoritatively aggregate diverse ideas without backward-compatible growth strategies. Efficiently cultivator harness 24/7 interfaces via interdependent experiences. Dynamically repurpose bricks-and-clicks -critical sells content before market-driven deliverables testing procedures via value-added core competencies. done at the monotonectally visualize impactful.</p>
+                                     <p>“My Go-To Gold Signals Provider”
+“Goddit’s gold trading signals have been a game-changer for me. The accuracy is unmatched, and the team is always quick to respond if I have questions. Thanks to them, my gold trading strategy is now more efficient, and I’m seeing impressive returns on my investments. This service is definitely worth every penny.”
+</p>
                                  </div>
                             </div>
                         </div>
@@ -602,7 +606,7 @@
                                 </div>
                                 <div class="testimonial-content">
                                     <div class="testimonial-title">
-                                        <h3>Devid Alexon</h3> 
+                                        <h3>Devid R.</h3> 
                                     </div>
                                     <div class="testi-icon">
                                         <i class="fas fa-star"></i>
@@ -612,14 +616,73 @@
                                         <i class="fas fa-star-half-alt"></i>
                                     </div>
                                     <div class="testimonial-text">
-                                        <p>Cryptobit App Users</p>
+                                        <p>Professional Trader</p>
                                     </div>
                                 </div>
                                  <div class="qoute-icon">
                                      <i class="fas fa-quote-right"></i>
                                  </div>
                                  <div class="testi-text">
-                                     <p>Authoritatively aggregate diverse ideas without backward-compatible growth strategies. Efficiently cultivator harness 24/7 interfaces via interdependent experiences. Dynamically repurpose bricks-and-clicks -critical sells content before market-driven deliverables testing procedures via value-added core competencies. done at the monotonectally visualize impactful.</p>
+                                     <p>“Profitable Signals, Excellent Support”
+                                     “I’ve tried several gold trading services, but none compare to Goddit.com. The signals are spot-on, and I’ve been able to capitalize on more opportunities than I ever thought possible. What I really appreciate is the consistent support – if I have any questions, they’re always there to help. This service has taken my trading to the next level, and I couldn’t be happier with the results.”</p>
+                                 </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="testimonial-single-box">
+                                <div class="testimonial-thumb">
+                                    <img src="assets/images/resource/testi1.png" alt="">
+                                </div>
+                                <div class="testimonial-content">
+                                    <div class="testimonial-title">
+                                        <h3>Linda W.</h3> 
+                                    </div>
+                                    <div class="testi-icon">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star-half-alt"></i>
+                                    </div>
+                                    <div class="testimonial-text">
+                                        <p>Experienced Trader</p>
+                                    </div>
+                                </div>
+                                 <div class="qoute-icon">
+                                     <i class="fas fa-quote-right"></i>
+                                 </div>
+                                 <div class="testi-text">
+                                     <p>“Best Gold Trading Signals I've Used!”
+                                     “I’ve tried a few gold trading signal services, but Goddit.com is by far the best. The signals are always timely and accurate, and they give clear entry and exit points, making my trades much easier to manage. I’ve seen a noticeable improvement in my profits, and the educational content is a great bonus for refining my strategy. Highly recommend!”</p>
+                                 </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="testimonial-single-box">
+                                <div class="testimonial-thumb">
+                                    <img src="assets/images/resource/testi1.png" alt="">
+                                </div>
+                                <div class="testimonial-content">
+                                    <div class="testimonial-title">
+                                        <h3>Emily S.</h3> 
+                                    </div>
+                                    <div class="testi-icon">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star-half-alt"></i>
+                                    </div>
+                                    <div class="testimonial-text">
+                                        <p>Full Time Trader</p>
+                                    </div>
+                                </div>
+                                 <div class="qoute-icon">
+                                     <i class="fas fa-quote-right"></i>
+                                 </div>
+                                 <div class="testi-text">
+                                     <p>“Reliable and Profitable Gold Signals”
+                                     “As a trader with a busy schedule, I need a service that I can rely on for accurate and timely gold signals. Goddit has exceeded my expectations. The signals are easy to follow, and they’re consistently profitable. I’ve made back my subscription fee many times over and couldn’t be happier with my decision.”</p>
                                  </div>
                             </div>
                         </div>
@@ -634,13 +697,13 @@
 <!--==================================================-->
 
 <!-- ===============//faq section start here \\================= -->
-<div class="faq-area style-two pt-100">
+<div class="faq-area style-two pt-100 pb-100">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <div class="dreamit-section-title style-two pb-2 wow fadeInLeft" data-wow-delay=".3s">
+                <div class="dreamit-section-title text-center upper1 pb-70" data-wow-delay=".3s">
                     <h4>FAQ</h4>
-                    <h1>Frequently Q/A</h1>
+                    <h1 class="section-title">Frequently Q/A</h1>
                     <p class="section-text">Globally network emerging action items with best-of-breed core <br>Efficiently build end-to-end mindshare</p>
                 </div>
             </div>
@@ -665,14 +728,47 @@
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12">
-                <div class="faq-single-thumb wow fadeInLeft" data-wow-delay=".6s">
-                    <img src="assets/images/resource/faq1.png" alt="">
+            <div class="row">
+                    <div class="contact-form-box wow fadeInLeft" data-wow-delay=".4s">
+                         <div class="contact-form-title">
+                            <h3>Get In Touch</h3>
+                         </div> 
+                        <form action="https://formspree.io/f/myyleorq" method="POST" id="dreamit-form">
+                            <div class="row">
+                                <div class="col-lg-6  col-md-6 col-sm-12">
+                                    <div class="from-box">
+                                        <input type="text" name="name" placeholder="Your Name">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6  col-md-6 col-sm-12">
+                                    <div class="from-box">
+                                        <input type="text" name="phone" placeholder="Enter E-Mail">
+                                    </div>
+                                </div>
+                                <div class="col-lg-12 col-sm-12">
+                                    <div class="from-box">
+                                        <input type="text" name="mail" placeholder="Subject">
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="from-box">
+                                        <textarea name="massage" id="massage" placeholder="Massage"></textarea>
+                                    </div>                                  
+                                </div>
+                            </div>
+                            <div class="from-box">
+                                <button type="submit">Send Message</button>
+                            </div>
+                        </form>
+                        <div id="status"></div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
 <!-- ===============//faq section end here \\=================== -->
+
 
 <!-- ===============//subscribe area end here \\=================== -->
 <div class="subscribe-area pt-100 pb-100">
@@ -853,6 +949,21 @@
 	<script src="assets/js/jquery.barfiller.js"></script>
     <!-- particls js -->
     <script src="assets/js/particls.chart1.js"></script>
+
+    <!--jave script -->
+    <script>
+        $(window).on('scroll', function () {
+            var scrolled = $(window).scrollTop();
+            if (scrolled > 300) $('.go-top').addClass('active');
+            if (scrolled < 300) $('.go-top').removeClass('active');
+        });
+
+        $('.go-top').on('click', function () {
+            $("html, body").animate({
+                scrollTop: "0"
+            }, 1200);
+        });
+    </script>
 
 </body>
 </html>
