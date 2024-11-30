@@ -70,13 +70,7 @@
                                 <li><a href="/pricing">Pricing</a></li>
                             </ul>
                         </li>
-                        <li><a href="#">Education <span>+</span></a>
-                            <ul class="sub-menu upper">
-                                <li><a href="about.html">Beginner Level</a></li> 
-                                <li><a href="service.html">Intermediate Level</a></li>
-                                <li><a href="service-details.html">Advanced Level</a></li>
-                                <li><a href="team.html">Mastery Level</a></li>
-                            </ul>
+                        <li><a href="/education">Education <span></span></a>
                         </li>
                         <li><a href="/blog">Blog</a>
                         </li>
@@ -103,14 +97,7 @@
                             <li><a href="/pricing">Pricing</a></li>
                     </ul>
                 </li>
-                <li><a href="#">Education <span>+</span></a>
-                            <ul class="sub-menu upper">
-                                <li><a href="about.html">Beginner Level</a></li> 
-                                <li><a href="service.html">Intermediate Level</a></li>
-                                <li><a href="service-details.html">Advanced Level</a></li>
-                                <li><a href="team.html">Mastery Level</a></li>
-                            </ul>
-                </li>
+                <li><a href="/education">Education <span></span></a></li>
                 <li><a href="/blog">Blog</a>
                 </li>
                 <li><a href="/contact">Contact Us</a></li>

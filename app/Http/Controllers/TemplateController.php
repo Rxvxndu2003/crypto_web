@@ -44,4 +44,9 @@ class TemplateController extends Controller
     {
         return view('pages.Privacy');
     }
+
+    public function education()
+    {
+        return view('pages.Education');
+    }
 }
