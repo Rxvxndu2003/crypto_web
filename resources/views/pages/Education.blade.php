@@ -1,39 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Golddit-Education</title>
-
-    <!-- bootstrap CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="all" />
-    <!-- carousel CSS -->
-    <link rel="stylesheet" href="assets/css/owl.carousel.min.css" type="text/css" media="all" />
-    <!-- theme default CSS -->
-    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css" type="text/css" media="all" />
-    <!-- animate CSS -->
-    <link rel="stylesheet" href="assets/css/animate.css" type="text/css" media="all" />
-    <!-- animated-text CSS -->
-    <link rel="stylesheet" href="assets/css/animated-text.css" type="text/css" media="all" />
-    <!-- font-awesome CSS -->
-    <link rel="stylesheet" href="assets/css/all.min.css" type="text/css" media="all" />
-    <!-- font-flaticon CSS -->
-    <link rel="stylesheet" href="assets/css/flaticon.css" type="text/css" media="all" />
-    <!-- theme-default CSS -->
-    <link rel="stylesheet" href="assets/css/theme-default.css" type="text/css" media="all" />
-    <!-- meanmenu CSS -->
-    <link rel="stylesheet" href="assets/css/meanmenu.min.css" type="text/css" media="all" />
-    <!-- Main Style CSS -->
-    <link rel="stylesheet" href="style.css" type="text/css" media="all" />
-    <!-- venobox CSS -->
-    <link rel="stylesheet" href="venobox/venobox.css" type="text/css" media="all" />
-    <!-- responsive CSS -->
-    <link rel="stylesheet" href="assets/css/responsive.css" type="text/css" media="all" />
-    <!-- Favicon -->
-    <link rel="icon" type="image/png" sizes="56x56" href="assets/images/fav-icon/icon.png">
+<meta charset="UTF-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>Golddit-Home</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Favicon -->
+	<link rel="icon" type="image/png" sizes="56x56" href="assets/images/fav-icon/icon.png">
+	<!-- bootstrap CSS -->
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="all" />
+	<!-- carousel CSS -->
+	<link rel="stylesheet" href="assets/css/owl.carousel.min.css" type="text/css" media="all" />
+	<!-- theme default CSS -->	
+	<link rel="stylesheet" href="assets/css/owl.theme.default.min.css" type="text/css" media="all" />	
+	<!-- animate CSS -->
+	<link rel="stylesheet" href="assets/css/animate.css" type="text/css" media="all" />	
+	<!-- animated-text CSS -->
+	<link rel="stylesheet" href="assets/css/animated-text.css" type="text/css" media="all" />	
+	<!-- font-awesome CSS -->
+	<link rel="stylesheet" href="assets/css/all.min.css" type="text/css" media="all" />	
+	<!-- font-flaticon CSS -->
+	<link rel="stylesheet" href="assets/css/flaticon.css" type="text/css" media="all" />	
+	<!-- theme-default CSS -->
+	<link rel="stylesheet" href="assets/css/theme-default.css" type="text/css" media="all" />	
+	<!-- meanmenu CSS -->
+	<link rel="stylesheet" href="assets/css/meanmenu.min.css" type="text/css" media="all" />
+	<!-- Main Style CSS -->
+	<link rel="stylesheet"  href="style.css" type="text/css" media="all" />
+	<!-- venobox CSS -->
+	<link rel="stylesheet" href="venobox/venobox.css" type="text/css" media="all" />
+	<!-- responsive CSS -->
+	<link rel="stylesheet" href="assets/css/responsive.css" type="text/css" media="all" />
     <link rel="stylesheet" href="dist/style.html">
     <link href="tail-style.css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com/">
@@ -55,29 +54,25 @@
 
         gtag('config', 'G-D1J7K42REG');
     </script>
-
 </head>
-
 <body class=" overflow-x-auto" x-data>
-
-
     <!--==================================================-->
     <!-- Start cryptobit Main Menu Area -->
     <!--==================================================-->
-    <div id="sticky-header" class="cryptobit_nav_manu upper">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-4">
-                    <div class="logo">
-                        <a class="logo_img upper1" href="/" title="cryptobit">
+<div id="sticky-header" class="cryptobit_nav_manu upper">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-4">
+                <div class="logo">
+                    <a class="logo_img upper1" href="/" title="cryptobit">
                             <img src="assets/images/logo2.png" alt="" />
-                        </a>
-                        <a class="main_sticky upper1" href="/" title="cryptobit">
+                    </a>
+                    <a class="main_sticky upper1" href="/" title="cryptobit">
                             <img src="assets/images/logo2.png" alt="astute" />
-                        </a>
-                    </div>
+                    </a>
                 </div>
-                <div class="col-lg-8">
+            </div>
+            <div class="col-lg-8">
                     <nav class="cryptobit_menu upper">
                         <ul class="nav_scroll">
                             <li><a href="/">Home</a>
@@ -98,11 +93,11 @@
                             <a href="#">Login</a>
                         </div>
                     </nav>
-                </div>
             </div>
         </div>
     </div>
-    <!-- Cryptobit Mobile Menu Area -->
+</div>
+   <!-- Cryptobit Mobile Menu Area -->
 <div class="mobile-menu-area d-sm-block d-md-block d-lg-none ">
     <div class="mobile-menu" >
         <nav class="cripto_menu" >
@@ -110,7 +105,7 @@
                 <li><a href="/">Home</a>
                 </li>
                 <li><a href="/about">About</a></li>
-                <li><a href="/service">Services <span>+</span></a>
+                <li><a href="/service">Services <span></span></a>
                     <ul class="sub-menu">
                             <li><a href="/pricing">Pricing</a></li>
                     </ul>
@@ -559,6 +554,11 @@
                                 වෙබි අඩවිය මුලුමනින්ම ක්&zwj;රියාත්මක වෙන්නේ අවුරැදු 14 ක් පුරා සැබෑ වෙළද පොලේ ගණුදෙනු
                                 කරන සැබෑ ගණුදෙනු කරැවන් අතින් මිසක් පාඨමාලා පමණක් කරන කිසිවෙක් අතින් නෙවෙයි. ඒක නිසා
                                 අපිට හැකියාව ලැබිලා තියෙනවා බොහෝ සේවාවන් හැමෝටම නොමිලේ සපයන්න.&nbsp;</span></div>
+                        <div style="text-align: justify;"><span style="font-size: 12pt;">අපි කලින් සදහන් කරා වගේ 2010
+                                ඉදලා ලංකාවේ ක්&zwj;රියාත්මක වන දිනපතා යාවත්කාලීන වෙන ලංකාවේ එකම Forex වෙබි අඩවිය. අපේ
+                                වෙබි අඩවිය මුලුමනින්ම ක්&zwj;රියාත්මක වෙන්නේ අවුරැදු 14 ක් පුරා සැබෑ වෙළද පොලේ ගණුදෙනු
+                                කරන සැබෑ ගණුදෙනු කරැවන් අතින් මිසක් පාඨමාලා පමණක් කරන කිසිවෙක් අතින් නෙවෙයි. ඒක නිසා
+                                අපිට හැකියාව ලැබිලා තියෙනවා බොහෝ සේවාවන් හැමෝටම නොමිලේ සපයන්න.&nbsp;</span></div>
                         <div style="text-align: justify;">&nbsp;</div>
                         <div style="text-align: justify;"><span style="font-size: 12pt;">ඉතින් පිළිවෙලට නිවැරදිවම Forex
                                 කරලා ඒක ඔයාගේ ආදායම් මාර්ගයක් කරගන්න යන ගමනේ තිරණය තියන්නේ ඔයාගේ අතේ. අපට කරන්න පුලුවන්
@@ -701,7 +701,6 @@
         </div>
     </div>
 
-
     <!--header-->
 
     <!--==================================================-->
@@ -806,29 +805,6 @@
     <!--==================================================-->
     <!-- End Cryptobit Footer Middle Area -->
     <!--==================================================-->
-
-    <script src="../cdn.jsdelivr.net/gh/alpinejs/alpine%40v2.x.x/dist/alpine.min.js" defer></script>
-
-    <script>
-        /* When the user scrolls down, hide the navbar. When the user scrolls up, show the navbar */
-        let prevScrollpos = window.pageYOffset;
-        window.onscroll = function () {
-            let currentScrollPos = window.pageYOffset;
-            if (prevScrollpos > currentScrollPos) {
-                document.getElementById("nav").style.top = "0";
-            } else {
-                document.getElementById("nav").style.top = "-75px";
-            }
-            prevScrollpos = currentScrollPos;
-        }
-    </script>
-
-
-
-
 </body>
-
-
-<!-- Mirrored from lakforex.com/articles by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2024 12:00:54 GMT -->
 
 </html>

@@ -770,8 +770,8 @@
         width: 84%;
     }
     .cc-feature-con {
-        width: 97%;
-        left: -27px;
+        width: 120%;
+        left: -24px;
     }
     .cc-sum.cc-sum-r-three::before , .cc-sum.cc-sum-l-one::before , .cc-sum.cc-sum-r-four::before , .cc-sum.cc-sum-l-two::before {
         left: -12%;
@@ -962,5 +962,7 @@
         top: 11%;
         left: -12%;
     }
+
+
     
 }

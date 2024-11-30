@@ -170,25 +170,25 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-4 col-md-6 col-sm-12 pt-left pl-0 pr-0">
+            <div class="col-lg-3 col-md-6 col-sm-12 pt-left pl-0 pr-0">
                 <div class="pricing-single-box">
                     <!-- pricing top -->
                     <div class="pricing-top-ber">
                         <div class="pricing-head">
                             <div class="pricing-title">
-                                <h3>BASIC</h3>
+                                <h3>FREE</h3>
                             </div>
                         </div>
                     </div>
                     <div class="pricing-items">
                         <div class="pricing-items-title">
-                            <h3>Powerful Design</h3>
-                            <p>[Elementor Pro]</p>
+                            <h3>TRIAL</h3>
+                            <p>[Gold Signals]</p>
                         </div>
                         <div class="pricing-items-center">
                             <span class="curencyp">$</span>
-                            <span class="tk">5.68</span>
-                            <span class="monthp"> / Project</span>
+                            <span class="tk">0</span>
+                            <span class="monthp"> / lifetime</span>
                         </div>
                     </div>
                     <!-- pricing boody -->
@@ -209,7 +209,7 @@
                     </div>
                 </div>
             </div>
-             <div class="col-lg-4 col-md-6 col-sm-12 pt-left pl-0 pr-0">
+            <div class="col-lg-3 col-md-6 col-sm-12 pt-left pl-0 pr-0">
                 <div class="pricing-single-box active">
                     <!-- pricing top -->
                     <div class="pricing-top-ber">
@@ -221,13 +221,13 @@
                     </div>
                     <div class="pricing-items">
                         <div class="pricing-items-title">
-                            <h3>Wallet Developed</h3>
-                            <p>[Elementor Pro]</p>
+                            <h3>MONTHLY</h3>
+                            <p>[Gold Signals]</p>
                         </div>
                         <div class="pricing-items-center">
                             <span class="curencyp">$</span>
-                            <span class="tk">9.83</span>
-                            <span class="monthp"> / Project</span>
+                            <span class="tk">50</span>
+                            <span class="monthp"> / m</span>
                         </div>
                     </div>
                     <!-- pricing boody -->
@@ -248,25 +248,25 @@
                     </div>
                 </div>
             </div>
-             <div class="col-lg-4 col-md-6 col-sm-12 pt-left pl-0 pr-0">
+            <div class="col-lg-3 col-md-6 col-sm-12 pt-left pl-0 pr-0">
                 <div class="pricing-single-box">
                     <!-- pricing top -->
                     <div class="pricing-top-ber">
                         <div class="pricing-head">
                             <div class="pricing-title">
-                                <h3>PREMIUM</h3>
+                                <h3>SUPREME</h3>
                             </div>
                         </div>
                     </div>
                     <div class="pricing-items">
                         <div class="pricing-items-title">
-                            <h3>Money Exchange</h3>
-                            <p>[Elementor Pro]</p>
+                            <h3>YEARLY</h3>
+                            <p>[Gold signals]</p>
                         </div>
                         <div class="pricing-items-center">
                             <span class="curencyp">$</span>
-                            <span class="tk">9.98</span>
-                            <span class="monthp"> / Project</span>
+                            <span class="tk">35</span>
+                            <span class="monthp"> / m</span>
                         </div>
                     </div>
                     <!-- pricing boody -->
@@ -278,6 +278,45 @@
                                 <li><span><i class="fas fa-check"></i></span> Server Installation</li>
                                 <li><span><i class="fas fa-check"></i></span> Dedicated Supports</li>
                                 <li class="price-icon-text"><span class="price-icon-text"><i class="fi fi-rr-cross"></i></span> Lifetime Gurenty</li>
+                            </ul>
+                        </div>
+                        <div class="pricing-button">
+                            <a href="#">Purches Now</a>
+                        </div>
+                        <div class="pricing-hide"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 pt-left pl-0 pr-0">
+                <div class="pricing-single-box active">
+                    <!-- pricing top -->
+                    <div class="pricing-top-ber">
+                        <div class="pricing-head">
+                            <div class="pricing-title">
+                                <h3>STANDARD</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pricing-items">
+                        <div class="pricing-items-title">
+                            <h3>MONTHLY</h3>
+                            <p>[Gold Signals]</p>
+                        </div>
+                        <div class="pricing-items-center">
+                            <span class="curencyp">$</span>
+                            <span class="tk">50</span>
+                            <span class="monthp"> / m</span>
+                        </div>
+                    </div>
+                    <!-- pricing boody -->
+                    <div class="pricing-boody">
+                        <div class="pricing-featur">
+                            <ul>
+                                <li><span><i class="fas fa-check"></i></span> Wordpress Installation</li>
+                                <li><span><i class="fas fa-check"></i></span> Theme Upload & Customize</li>
+                                <li><span><i class="fas fa-check"></i></span> Server Installation</li>
+                                <li><span><i class="fas fa-check"></i></span> Dedicated Supports</li>
+                                <li><span class="price-icon-text"><i class="fi fi-rr-cross"></i></span> Lifetime Gurenty</li>
                             </ul>
                         </div>
                         <div class="pricing-button">
@@ -323,15 +362,14 @@
 <!--==================================================-->
 
 <!-- ===============//faq section start here \\================= -->
-<div class="contact-form-area style-two pt-100 pb-100">
+<div class="faq-area style-two pt-100">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <div class="dreamit-section-title text-center upper1 pb-70" data-wow-delay=".3s">
+                <div class="dreamit-section-title style-two pb-2">
                     <h4>FAQ</h4>
-                    <h1 class="section-title">Frequently Q/A</h1>
-                    <p class="section-text">Goddit offers expert gold trading signals with clear buy/sell
-                    <br>Alerts to help you trade smarter and profit more.</p>
+                    <h1>Frequently Q/A</h1>
+                    <p class="section-text">Globally network emerging action items with best-of-breed core <br>Efficiently build end-to-end mindshare</p>
                 </div>
             </div>
         </div>
@@ -354,41 +392,9 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-12">
-            <div class="row">
-                    <div class="contact-form-box wow fadeInLeft" data-wow-delay=".4s">
-                         <div class="contact-form-title">
-                            <h3>Get In Touch</h3>
-                         </div> 
-                        <form action="https://formspree.io/f/myyleorq" method="POST" id="dreamit-form">
-                            <div class="row">
-                                <div class="col-lg-12 col-sm-12">
-                                    <div class="from-box">
-                                        <input type="text" name="name" placeholder="Your Name">
-                                    </div>
-                                </div>
-                                <div class="col-lg-12 col-sm-12">
-                                    <div class="from-box">
-                                        <input type="text" name="phone" placeholder="Enter E-Mail">
-                                    </div>
-                                </div>
-                                <div class="col-lg-12 col-sm-12">
-                                    <div class="from-box">
-                                        <input type="text" name="mail" placeholder="Subject">
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="from-box">
-                                        <textarea name="massage" id="massage" placeholder="Massage"></textarea>
-                                    </div>                                  
-                                </div>
-                            </div>
-                            <div class="from-box">
-                                <button type="submit">Send Message</button>
-                            </div>
-                        </form>
-                        <div id="status"></div>
-                    </div>
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="faq-single-thumb">
+                    <img src="assets/images/resource/faq1.png" alt="">
                 </div>
             </div>
         </div>
