@@ -253,6 +253,7 @@
     .cc-feature-card {
         width: 35%;
         margin-bottom: 40px;
+        left: 24px;
         height: auto;
     }
     .cc-feature-title p {

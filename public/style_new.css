@@ -35,8 +35,11 @@ input[type="text"]::placeholder , input[type="email"]::placeholder{
  li{
      list-style:none;
  }
- img{
+ .imag{
      max-width:50%;
+ }
+ img{
+        max-width:100%;
  }
 
  .image{
@@ -85,11 +88,12 @@ input[type="text"]::placeholder , input[type="email"]::placeholder{
 .cc-feature-con {
     background-color: var(--cc-black-light-color);
     width: 120%;
-    padding: 20px 32px 42px;
+    padding: 20px 32px 44px;
     border-radius: 14px;
     margin: 0 auto;
     left: -24px;
     position: inherit;
+    height: 360px;
 }
 .cc-feature-card:hover {
     padding: 0 10px;
@@ -1066,3 +1070,4 @@ form#contactForm {
     width:100%;
     position:absolute;
     }
+

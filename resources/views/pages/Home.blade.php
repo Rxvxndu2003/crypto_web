@@ -697,18 +697,18 @@
         </div>
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12">
-                <div class="accordion-menu">
+                <div class="accordion-menu wow fadeInLeft" data-wow-delay=".5s">
                     <ul class="accordion">
                         <li>
-                            <a>What is Blockchain?</a>
+                            <a>What is a gold trading signal?</a>
+                            <p>A gold trading signal is a recommendation on when to buy or sell gold, with entry and exit points, stop-loss, and take-profit levels, based on expert market analysis.</p>
+                        </li>
+                        <li>
+                            <a>How reliable are the signals?</a>
                             <p>Globally network emerging action items with best-of-breed core Efficiently build end-to-end mindshare cultivate top-line web-readiness before 24/7 scenarios.</p>
                         </li>
                         <li>
-                            <a>Can I Transections Using Tokens?</a>
-                            <p>Globally network emerging action items with best-of-breed core Efficiently build end-to-end mindshare cultivate top-line web-readiness before 24/7 scenarios.</p>
-                        </li>
-                        <li>
-                            <a>How can I create a crypto-wallet?</a>
+                            <a>How do I start using the service?</a>
                             <p>Globally network emerging action items with best-of-breed core Efficiently build end-to-end mindshare cultivate top-line web-readiness before 24/7 scenarios.</p>
                         </li>
                     </ul>

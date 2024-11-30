@@ -70,13 +70,7 @@
                                 <li><a href="/pricing">Pricing</a></li>
                             </ul>
                         </li>
-                        <li><a href="#">Education <span>+</span></a>
-                            <ul class="sub-menu upper">
-                                <li><a href="about.html">Beginner Level</a></li> 
-                                <li><a href="service.html">Intermediate Level</a></li>
-                                <li><a href="service-details.html">Advanced Level</a></li>
-                                <li><a href="team.html">Mastery Level</a></li>
-                            </ul>
+                        <li><a href="/education">Education <span></span></a>
                         </li>
                         <li><a href="/blog">Blog</a>
                         </li>
@@ -103,13 +97,7 @@
                             <li><a href="/pricing">Pricing</a></li>
                     </ul>
                 </li>
-                <li><a href="#">Education <span>+</span></a>
-                            <ul class="sub-menu upper">
-                                <li><a href="about.html">Beginner Level</a></li> 
-                                <li><a href="service.html">Intermediate Level</a></li>
-                                <li><a href="service-details.html">Advanced Level</a></li>
-                                <li><a href="team.html">Mastery Level</a></li>
-                            </ul>
+                <li><a href="/education">Education <span></span></a>
                 </li>
                 <li><a href="/blog">Blog</a>
                 </li>
@@ -156,14 +144,14 @@
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12">
                  <div class="dreamit-section-title upper1 pb-5 wow fadeInLeft" data-wow-delay=".5s">
-                    <h4>About Cryptobit?</h4>
-                    <h1 class="section-title">We Built a Crypto Platform</h1>
-                    <h1 class="section-title">To Buy & Sell Shares</h1>
-                    <p class="section-text1">Progressively predominate performance based internal or "orga sources before high standards in architectures. Interactively ini transparent functionalities via efficient ROI.</p>
+                    <h4>About Golddit?</h4>
+                    <h1 class="section-title">We Provide Gold Signals</h1>
+                    <h1 class="section-title">for Buying & Selling</h1>
+                    <p class="section-text1">At Golddit, we provide expert gold signals to help you buy and sell with confidence. Our timely, accurate insights guide your trading decisions, ensuring smarter moves in the gold market.</p>
                     <div class="about-check-text">
-                        <p><span><i class="fas fa-check"></i></span> Prioritize the features your customers need</p>
-                        <p><span><i class="fas fa-check"></i></span> Align Everyone around the Roadmap</p>
-                        <p><span><i class="fas fa-check"></i></span> Uniquely Empower Parallel Total Talents</p>
+                        <p><span><i class="fas fa-check"></i></span> Providing accurate buy & sell Signals.</p>
+                        <p><span><i class="fas fa-check"></i></span> Delivering timely, trustworthy signals.</p>
+                        <p><span><i class="fas fa-check"></i></span> Offering strategies for consistent gains.</p>
                     </div>
                 </div>
             </div>
@@ -175,45 +163,44 @@
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start cryptobit brand Area -->
+<!-- Start Cryptobit counter Area -->
 <!--==================================================-->
-<div class="brand-area">
+<div class="counter-area pt-110 pb-80">
     <div class="container">
         <div class="row">
-            <div class="brand-list owl-carousel">
-                <div class="col-lg-12">
-                    <div class="brand-single-box">
-                        <div class="brand-thumb">
-                            <img src="assets/images/resource/brand1.png" alt="">
-                        </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="counter-single-box wow fadeInLeft" data-wow-delay=".3s">
+                    <div class="counter-title">
+                        <h1>6</h1>
+                        <span>+</span>
+                        <p>Years of Experience</p>
                     </div>
                 </div>
-                <div class="col-lg-12">
-                    <div class="brand-single-box">
-                        <div class="brand-thumb">
-                            <img src="assets/images/resource/brand2.png" alt="">
-                        </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="counter-single-box wow fadeInLeft" data-wow-delay=".4s">
+                    <div class="counter-title">
+                        <h1 class="counter">8.5</h1>
+                        <span>K+</span>
+                        <p>Community Golddit</p>
                     </div>
                 </div>
-                <div class="col-lg-12">
-                    <div class="brand-single-box">
-                        <div class="brand-thumb">
-                            <img src="assets/images/resource/brand3.png" alt="">
-                        </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="counter-single-box wow fadeInLeft" data-wow-delay=".5s">
+                    <div class="counter-title">
+                        <h1>1</h1>
+                        <span>K+</span>
+                        <p>Weekly Pips</p>
                     </div>
                 </div>
-                <div class="col-lg-12">
-                    <div class="brand-single-box">
-                        <div class="brand-thumb">
-                            <img src="assets/images/resource/brand4.png" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="brand-single-box">
-                        <div class="brand-thumb">
-                            <img src="assets/images/resource/brand5.png" alt="">
-                        </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="counter-single-box wow fadeInLeft" data-wow-delay=".6s">
+                    <div class="counter-title">
+                        <h1 class="counter">2-4</h1>
+                        <span></span>
+                        <p>Traders Per Day</p>
                     </div>
                 </div>
             </div>
@@ -221,7 +208,7 @@
     </div>
 </div>
 <!--==================================================-->
-<!-- End Cryptobit brand Area -->
+<!-- End Cryptobit counter Area -->
 <!--==================================================-->
 
 <!--==================================================-->
@@ -232,9 +219,9 @@
         <div class="row">
              <div class="col-lg-12 col-sm-12">
                  <div class="dreamit-section-title text-center upper1 pb-30 ">
-                    <h4>Crypto Features</h4>
-                    <h1 class="section-title">Crypto Best <span>Features</span></h1>
-                    <p class="section-text">Cryptocurrencies are used primarily outside existing banking and coingovernmental institutions and are exchanged </p>
+                    <h4>Golddit Features</h4>
+                    <h1 class="section-title">Golddit Best <span>Features</span></h1>
+                    <p class="section-text">Gold signals are driven by expert analysis, offering precise guidance for profitable trades outside conventional market systems.</p>
                 </div>
             </div>
         </div>
@@ -246,8 +233,8 @@
                             <img src="assets/images/resource/f-icon1.png" alt="">
                         </div>
                         <div class="feature-title">
-                            <h3>Early Bonus Cash</h3>
-                            <p>Professionally engineer customized scenari a-vis innovative interfaces. Synergistically ta sustainable infomediaries via multidiscipli web services uniquely</p>
+                            <h3>Profit Guarantee</h3>
+                            <p>Our expert signals are designed to help you maximize profits, providing consistent, profitable trading opportunities for smarter decision-making.</p>
                         </div>
                     </div>
                 </div>
@@ -259,8 +246,8 @@
                             <img src="assets/images/resource/f-icon2.png" alt="">
                         </div>
                         <div class="feature-title">
-                            <h3>Secure Payment</h3>
-                            <p>Professionally engineer customized scenari a-vis innovative interfaces. Synergistically ta sustainable infomediaries via multidiscipli web services uniquely</p>
+                            <h3>Secure Funds</h3>
+                            <p>Trade with confidence, knowing your funds and transactions are protected through advanced security measures, ensuring your investments stay safe.</p>
                         </div>
                     </div>
                 </div>
@@ -272,8 +259,8 @@
                             <img src="assets/images/resource/f-icon3.png" alt="">
                         </div>
                         <div class="feature-title">
-                            <h3>Universal Access</h3>
-                            <p>Professionally engineer customized scenari a-vis innovative interfaces. Synergistically ta sustainable infomediaries via multidiscipli web services uniquely</p>
+                            <h3>Strong Community</h3>
+                            <p>Join a dynamic network of skilled traders, exchanging expert insights and strategies to collectively learn, grow, and achieve success in the gold market.</p>
                         </div>
                     </div>
                 </div>
@@ -294,35 +281,35 @@
             <div class="col-lg-6 col-md-6">
                  <div class="dreamit-section-title upper1  pb-5 wow fadeInLeft" data-wow-delay=".4s">
                     <h4>Skils and Abilities</h4>
-                    <h1 class="section-title">Cryptobit Expertise</h1>
-                    <p class="skill-text">Progressively predominate performance based internal or "orga sources before high standards in architectures. Interactively ini transparent functionalities via efficient ROI. Quickly administrate extensive partnerships.</p>
-                    <p>Architectures. Interactively ini transparent functionalities via ROI. Quickly administrate extensive partne..</p>
+                    <h1 class="section-title">Golddit Expertise</h1>
+                    <p class="skill-text">We possess a deep understanding of gold trading, market analysis, and risk management. Our expertise provides accurate, timely signals that empower traders to make informed, profitable decisions.</p>
+                    <p>Focused on minimizing risk and maximizing returns, we offer strategic insights for success in the gold market.</p>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12">
                 <div class="prossess-ber-plugin style-two wow fadeInLeft" data-wow-delay=".5s">
-                    <span class="prosses-bar">Digital Art</span>
+                    <span class="prosses-bar">Analysis</span>
                     <div id="bar1" class="barfiller">
                         <div class="tipWrap">
                             <span class="tip"></span>
                         </div>
                         <span class="fill" data-percentage="90"></span>
                     </div>  
-                    <span class="prosses-bar">Support</span>
+                    <span class="prosses-bar">Precision</span>
                     <div id="bar2" class="barfiller">
                         <div class="tipWrap">
                             <span class="tip"></span>
                         </div>
                         <span class="fill" data-percentage="80"></span>
                     </div>
-                    <span class="prosses-bar">Marketing</span>
+                    <span class="prosses-bar">Strategy</span>
                     <div id="bar3" class="barfiller">
                         <div class="tipWrap">
                             <span class="tip"></span>
                         </div>
                         <span class="fill" data-percentage="85"></span>
                     </div>
-                    <span class="prosses-bar">Blockchain</span>
+                    <span class="prosses-bar">Reliability</span>
                     <div id="bar4" class="barfiller">
                         <div class="tipWrap">
                             <span class="tip"></span>
@@ -338,134 +325,6 @@
 <!-- End Cryptobit skill Area -->
 <!--==================================================-->
 
-<!--==================================================-->
-<!-- Start Cryptobit counter Area -->
-<!--==================================================-->
-<div class="counter-area pt-110 pb-80">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-3 col-md-6">
-                <div class="counter-single-box wow fadeInLeft" data-wow-delay=".3s">
-                    <div class="counter-title">
-                        <h1>$38.98</h1>
-                        <span>M+</span>
-                        <p>Digital Products</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="counter-single-box wow fadeInLeft" data-wow-delay=".4s">
-                    <div class="counter-title">
-                        <h1 class="counter">680</h1>
-                        <span>K+</span>
-                        <p>Happy Active Users</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="counter-single-box wow fadeInLeft" data-wow-delay=".5s">
-                    <div class="counter-title">
-                        <h1>$380</h1>
-                        <span>M+</span>
-                        <p>Transections Done</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="counter-single-box wow fadeInLeft" data-wow-delay=".6s">
-                    <div class="counter-title">
-                        <h1 class="counter">150</h1>
-                        <span>K+</span>
-                        <p>Community BTC</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!--==================================================-->
-<!-- End Cryptobit counter Area -->
-<!--==================================================-->
-
-<!--==================================================-->
-<!-- Start Cryptobit popular section Area -->
-<!--==================================================-->
-<div class="blog-section style-two pt-100 pb-70">
-    <div class="container">
-    	<div class="row">
-    		<div class="dreamit-section-title text-center upper1 pb-30">
-                <h4>Blog</h4>
-                <h1 class="section-title"> <span>Recent Blog</span></h1>
-                <p class="section-text">Cryptocurrencies are used primarily outside existing banking governmental institutions and exchanged</p>
-            </div>
-    	</div>
-        <div class="row">
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="dreamit-blog-box wow fadeInUp" data-wow-delay=".4s">
-                    <div class="blog-box-inner"> 
-                        <div class="dreamit-blog-thumb">
-                            <img src="assets/images/resource/blog-1.jpg" alt="">
-                        </div>
-                        <div class="popular-blog-content">
-                            <div class="meta-blog">
-                                <a href="#">Mar 19, 2024</a>
-                            </div>
-                            <div class="blog-title">
-                                <h2><a href="blog-details.html">Content strategy can help <br> engage customers.</a></h2>
-                            </div>
-                            <div class="blog-text">
-                                <p>Collaboratively syndicate turnkey are Energistically enable standards in the pontificate interman.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="dreamit-blog-box upper1 wow fadeInUp" data-wow-delay=".4s">
-                    <div class="blog-box-inner"> 
-                        <div class="dreamit-blog-thumb">
-                            <img src="assets/images/resource/blog-2.jpg" alt="">
-                        </div>
-                        <div class="popular-blog-content">
-                            <div class="meta-blog">
-                                <a href="#">Mar 19, 2024</a>
-                            </div>
-                            <div class="blog-title">
-                                <h2><a href="blog-details.html">Crypto Buy and Sell Coin <br> with Trusted Agency.</a></h2>
-                            </div>
-                            <div class="blog-text">
-                                <p>Collaboratively syndicate turnkey are Energistically enable standards in the pontificate interman.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="dreamit-blog-box upper2 wow fadeInUp" data-wow-delay=".4s">
-                    <div class="blog-box-inner"> 
-                        <div class="dreamit-blog-thumb">
-                            <img src="assets/images/resource/blog-3.jpg" alt="">
-                        </div>
-                        <div class="popular-blog-content">
-                            <div class="meta-blog">
-                                <a href="#">Mar 19, 2024</a>
-                            </div>
-                            <div class="blog-title">
-                                <h2><a href="blog-details.html">Coin strategy can help you <br> engage Audience</a></h2>
-                            </div>
-                            <div class="blog-text">
-                                <p>Collaboratively syndicate turnkey are Energistically enable standards in the pontificate interman.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!--==================================================-->
-<!-- End Cryptobit popular section Area -->
-<!--==================================================-->
 
 <!--==================================================-->
 <!-- Start Cryptobit Footer Middle Area -->

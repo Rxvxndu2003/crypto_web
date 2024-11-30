@@ -165,44 +165,44 @@
                 <div class="cc-feature-card">
                     <div class="cc-feature-con">
                         <div class="cc-feat-img">
-                            <img src="assets/images/resource/html.png" alt="">
+                            <img src="assets/images/card1.png" alt="" class="imag">
                         </div>
                         <div class="cc-feat-con">
-                            <h3>INSTANT TRADING</h3>
-                            <p>Simply dummy text of the printing and typesetting industryorem Ipsum has been.</p>
+                            <h3>FREE SIGNALS</h3>
+                            <p>Get reliable, no-cost gold trading signals to start trading with confidence.</p>
                         </div>
                     </div>
                 </div>
                 <div class="cc-feature-card">
                     <div class="cc-feature-con">
                         <div class="cc-feat-img">
-                            <img src="assets/images/resource/html.png" alt="">
+                            <img src="assets/images/card2.png" alt="" class="imag">
                         </div>
                         <div class="cc-feat-con">
-                            <h3>RECURRING</h3>
-                            <p>Simply dummy text of the printing and typesetting industryorem Ipsum has been.</p>
+                            <h3>PAID SIGNALS</h3>
+                            <p>Access high-accuracy, premium signals for optimized trading decisions.</p>
                         </div>
                     </div>
                 </div>
                 <div class="cc-feature-card">
                     <div class="cc-feature-con">
                         <div class="cc-feat-img">
-                            <img src="assets/images/resource/html.png" alt="">
+                            <img src="assets/images/card3.png" alt="" class="imag">
                         </div>
                         <div class="cc-feat-con">
-                            <h3>SAFE AND SECURE</h3>
-                            <p>Simply dummy text of the printing and typesetting industryorem Ipsum has been.</p>
+                            <h3>COPY TRADING</h3>
+                            <p>Replicate expert trades for consistent profits without advanced knowledge.</p>
                         </div>
                     </div>
                 </div>
                 <div class="cc-feature-card">
                     <div class="cc-feature-con">
                         <div class="cc-feat-img">
-                            <img src="assets/images/resource/html.png" alt="">
+                            <img src="assets/images/card4.png" alt="" class="imag">
                         </div>
                         <div class="cc-feat-con">
-                            <h3>BITCOIN</h3>
-                            <p>Simply dummy text of the printing and typesetting industryorem Ipsum has been.</p>
+                            <h3>ACCOUNT MANAGEMENT</h3>
+                            <p>Let professionals manage your account for optimal returns.</p>
                         </div>
                     </div>
                 </div>
@@ -211,44 +211,44 @@
                 <div class="cc-feature-card">
                     <div class="cc-feature-con">
                         <div class="cc-feat-img">
-                            <img src="assets/images/resource/html.png" alt="">
+                            <img src="assets/images/card5.png" alt="" class="imag">
                         </div>
                         <div class="cc-feat-con">
-                            <h3>Bitcoin</h3>
-                            <p>Simply dummy text of the printing and typesetting industryorem Ipsum has been.</p>
+                            <h3>RISK STRATEGIES</h3>
+                            <p>Implement tailored risk management to safeguard your investments.</p>
                         </div>
                     </div>
                 </div>
                 <div class="cc-feature-card">
                     <div class="cc-feature-con">
                         <div class="cc-feat-img">
-                            <img src="assets/images/resource/html.png" alt="">
+                            <img src="assets/images/card6.png" alt="" class="imag">
                         </div>
                         <div class="cc-feat-con">
-                            <h3>Bitcoin</h3>
-                            <p>Simply dummy text of the printing and typesetting industryorem Ipsum has been.</p>
+                            <h3>MARKET ANALYSIS</h3>
+                            <p>Receive in-depth market insights to make informed trading choices.</p>
                         </div>
                     </div>
                 </div>
                 <div class="cc-feature-card">
                     <div class="cc-feature-con">
                         <div class="cc-feat-img">
-                            <img src="assets/images/resource/html.png" alt="">
+                            <img src="assets/images/card7.png" alt="" class="imag">
                         </div>
                         <div class="cc-feat-con">
-                            <h3>Bitcoin Secured</h3>
-                            <p>Simply dummy text of the printing and typesetting industryorem Ipsum has been.</p>
+                            <h3>TRADING COURSES</h3>
+                            <p>Master effective strategies with expert-led, actionable trading courses.</p>
                         </div>
                     </div>
                 </div>
                 <div class="cc-feature-card">
                     <div class="cc-feature-con">
                         <div class="cc-feat-img">
-                            <img src="assets/images/resource/html.png" alt="">
+                            <img src="assets/images/card8.png" alt="" class="imag">
                         </div>
                         <div class="cc-feat-con">
-                            <h3>Bitcoin Wallet</h3>
-                            <p>Simply dummy text of the printing and typesetting industryorem Ipsum has been.</p>
+                            <h3>PROFIT TARGETS</h3>
+                            <p>Set and achieve realistic profit goals with expert guidance.</p>
                         </div>
                     </div>
                 </div>
@@ -269,10 +269,10 @@
             <div class="col-lg-8 col-md-6">
                 <div class="call-do-action-content">
                     <div class="call-do-action-title">
-                        <h1>Looking for Crypto Expert?</h1>
+                        <h1>Looking for Account Manager?</h1>
                     </div>
                     <div class="call-do-action-text">
-                        <p>Progressively predominate performance based internal organic currency <br> sources before high standards architectures.</p>
+                        <p>A Gold (XAU/USD) Account Manager specializes in managing gold trading accounts, <br> optimizing strategies, and maximizing returns.</p>
                     </div>
                 </div>
             </div>
@@ -303,25 +303,25 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-4 col-md-6 col-sm-12 pt-left pl-0 pr-0">
+            <div class="col-lg-3 col-md-6 col-sm-12 pt-left pl-0 pr-0">
                 <div class="pricing-single-box">
                     <!-- pricing top -->
                     <div class="pricing-top-ber">
                         <div class="pricing-head">
                             <div class="pricing-title">
-                                <h3>BASIC</h3>
+                                <h3>FREE</h3>
                             </div>
                         </div>
                     </div>
                     <div class="pricing-items">
                         <div class="pricing-items-title">
-                            <h3>Powerful Design</h3>
-                            <p>[Elementor Pro]</p>
+                            <h3>TRIAL</h3>
+                            <p>[Gold Signals]</p>
                         </div>
                         <div class="pricing-items-center">
                             <span class="curencyp">$</span>
-                            <span class="tk">5.68</span>
-                            <span class="monthp"> / Project</span>
+                            <span class="tk">0</span>
+                            <span class="monthp"> / lifetime</span>
                         </div>
                     </div>
                     <!-- pricing boody -->
@@ -342,7 +342,7 @@
                     </div>
                 </div>
             </div>
-             <div class="col-lg-4 col-md-6 col-sm-12 pt-left pl-0 pr-0">
+            <div class="col-lg-3 col-md-6 col-sm-12 pt-left pl-0 pr-0">
                 <div class="pricing-single-box active">
                     <!-- pricing top -->
                     <div class="pricing-top-ber">
@@ -354,13 +354,13 @@
                     </div>
                     <div class="pricing-items">
                         <div class="pricing-items-title">
-                            <h3>Wallet Developed</h3>
-                            <p>[Elementor Pro]</p>
+                            <h3>MONTHLY</h3>
+                            <p>[Gold Signals]</p>
                         </div>
                         <div class="pricing-items-center">
                             <span class="curencyp">$</span>
-                            <span class="tk">9.83</span>
-                            <span class="monthp"> / Project</span>
+                            <span class="tk">50</span>
+                            <span class="monthp"> / m</span>
                         </div>
                     </div>
                     <!-- pricing boody -->
@@ -381,25 +381,25 @@
                     </div>
                 </div>
             </div>
-             <div class="col-lg-4 col-md-6 col-sm-12 pt-left pl-0 pr-0">
+            <div class="col-lg-3 col-md-6 col-sm-12 pt-left pl-0 pr-0">
                 <div class="pricing-single-box">
                     <!-- pricing top -->
                     <div class="pricing-top-ber">
                         <div class="pricing-head">
                             <div class="pricing-title">
-                                <h3>PREMIUM</h3>
+                                <h3>SUPREME</h3>
                             </div>
                         </div>
                     </div>
                     <div class="pricing-items">
                         <div class="pricing-items-title">
-                            <h3>Money Exchange</h3>
-                            <p>[Elementor Pro]</p>
+                            <h3>YEARLY</h3>
+                            <p>[Gold signals]</p>
                         </div>
                         <div class="pricing-items-center">
                             <span class="curencyp">$</span>
-                            <span class="tk">9.98</span>
-                            <span class="monthp"> / Project</span>
+                            <span class="tk">35</span>
+                            <span class="monthp"> / m</span>
                         </div>
                     </div>
                     <!-- pricing boody -->
@@ -420,6 +420,45 @@
                     </div>
                 </div>
             </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 pt-left pl-0 pr-0">
+                <div class="pricing-single-box active">
+                    <!-- pricing top -->
+                    <div class="pricing-top-ber">
+                        <div class="pricing-head">
+                            <div class="pricing-title">
+                                <h3>STANDARD</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pricing-items">
+                        <div class="pricing-items-title">
+                            <h3>MONTHLY</h3>
+                            <p>[Gold Signals]</p>
+                        </div>
+                        <div class="pricing-items-center">
+                            <span class="curencyp">$</span>
+                            <span class="tk">50</span>
+                            <span class="monthp"> / m</span>
+                        </div>
+                    </div>
+                    <!-- pricing boody -->
+                    <div class="pricing-boody">
+                        <div class="pricing-featur">
+                            <ul>
+                                <li><span><i class="fas fa-check"></i></span> Wordpress Installation</li>
+                                <li><span><i class="fas fa-check"></i></span> Theme Upload & Customize</li>
+                                <li><span><i class="fas fa-check"></i></span> Server Installation</li>
+                                <li><span><i class="fas fa-check"></i></span> Dedicated Supports</li>
+                                <li><span class="price-icon-text"><i class="fi fi-rr-cross"></i></span> Lifetime Gurenty</li>
+                            </ul>
+                        </div>
+                        <div class="pricing-button">
+                            <a href="#">Purches Now</a>
+                        </div>
+                        <div class="pricing-hide"></div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
@@ -428,15 +467,14 @@
 <!--==================================================-->
 
 <!-- ===============//faq section start here \\================= -->
-<div class="faq-area style-two pt-100 pb-100">
+<div class="faq-area style-two pt-100">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <div class="dreamit-section-title text-center upper1 pb-70" data-wow-delay=".3s">
+                <div class="dreamit-section-title style-two pb-2">
                     <h4>FAQ</h4>
-                    <h1 class="section-title">Frequently Q/A</h1>
-                    <p class="section-text">Goddit offers expert gold trading signals with clear buy/sell
-                    <br>Alerts to help you trade smarter and profit more.</p>
+                    <h1>Frequently Q/A</h1>
+                    <p class="section-text">Globally network emerging action items with best-of-breed core <br>Efficiently build end-to-end mindshare</p>
                 </div>
             </div>
         </div>
@@ -459,41 +497,9 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-12">
-            <div class="row">
-                    <div class="contact-form-box wow fadeInLeft" data-wow-delay=".4s">
-                         <div class="contact-form-title">
-                            <h3>Seeking Information?</h3>
-                         </div> 
-                        <form action="https://formspree.io/f/myyleorq" method="POST" id="dreamit-form">
-                            <div class="row">
-                                <div class="col-lg-12 col-sm-12">
-                                    <div class="from-box">
-                                        <input type="text" name="name" placeholder="Your Name">
-                                    </div>
-                                </div>
-                                <div class="col-lg-12 col-sm-12">
-                                    <div class="from-box">
-                                        <input type="text" name="phone" placeholder="Enter E-Mail">
-                                    </div>
-                                </div>
-                                <div class="col-lg-12 col-sm-12">
-                                    <div class="from-box">
-                                        <input type="text" name="mail" placeholder="Subject">
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="from-box">
-                                        <textarea name="massage" id="massage" placeholder="Massage"></textarea>
-                                    </div>                                  
-                                </div>
-                            </div>
-                            <div class="from-box">
-                                <button type="submit">Send Message</button>
-                            </div>
-                        </form>
-                        <div id="status"></div>
-                    </div>
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="faq-single-thumb">
+                    <img src="assets/images/resource/faq1.png" alt="">
                 </div>
             </div>
         </div>
