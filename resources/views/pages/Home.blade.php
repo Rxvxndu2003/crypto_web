@@ -344,13 +344,13 @@
         <div class="row service-bg wow fadeInLeft" data-wow-delay=".5s">
              <div class="col-lg-6 col-md-6 col-sm-12">
                  <div class="dreamit-section-title style-two">
-                    <h1>Join the Telegram</h1>
-                    <h1>Gold Trading</h1>
-                    <h1>Group Now</h1>
-                    <p class="service-text">Free XAU/USD Signals via the Telegram Channel. <br> Get 1-2 Live Gold Signals Daily, Exclusively on the <br> Free Golddit Channel.</p>
+                    <h1 style="text-align: left">Join the Telegram</h1>
+                    <h1 style="text-align: left">Gold Trading</h1>
+                    <h1 style="text-align: left">Group Now</h1>
+                    <p class="service-text" style="text-align: left">Free XAU/USD Signals via the Telegram Channel. <br> Get 1-2 Live Gold Signals Daily, Exclusively on the <br> Free Golddit Channel.</p>
                 </div>
-                 <div class="about-button2">
-                    <a href="#">JOIN FREE</a>
+                 <div class="about-button2" style="text-align: left">
+                    <a href="#" >JOIN FREE</a>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12">
@@ -492,7 +492,7 @@
             </div>
             <div class="col-lg-6 col-md-6">
                 <div class="about-button2 text-right">
-                    <a href="#">Droap a Review</a>
+                    <a href="#">Drop a Review</a>
                 </div>
             </div>
         </div>

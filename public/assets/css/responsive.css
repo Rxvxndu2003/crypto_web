@@ -1366,7 +1366,8 @@ td {
 }
 /*hero section*/
 .hero-content {
-    text-align: center;
+    margin-top: 50% !important;
+    text-align: left;
 }
 .hero-thumb-inner2 {
     left: 9px;
@@ -1375,7 +1376,7 @@ td {
     font-size: 14px;
 }
 .hero-title h1 {
-    font-size: 22px;
+    font-size: 40px !important;
     display: block !important;
 }
 .dreamit-hero-thumb {
@@ -1406,6 +1407,7 @@ td {
 /*section title*/
 .dreamit-section-title {
     text-align: center;
+    margin: 2%;
 }
 .dreamit-section-title h1 {
     font-size: 18px;
@@ -1414,7 +1416,7 @@ td {
     font-size: 14px;
 }
 .dreamit-section-title h4 {
-    display: none;
+    text-align: center;
 }
 p.section-text {
     font-size: 12px;
@@ -1587,6 +1589,7 @@ div#countdown span {
     padding-top: 40px;
 }
 .about-button2 {
+    margin: 2%;
     text-align: center;
 }
 .service-thumb-inner img {
@@ -1918,7 +1921,11 @@ span.right-reply {
 .service-main-thumb img {
     width: 100%;
 }
-
+.testimonial-counter-title{
+    text-align: center;
+    margin-left: 20%;
+   
 }
 
 
+}
