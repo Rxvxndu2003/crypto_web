@@ -1982,7 +1982,13 @@ a.active:before {
 .faq-area.style-two {
   background: #050603;
 }
+.accordion-menu {
+  margin-left: 40px; /* Adds space between the FAQ and the form */
+}
 
+.contact-form-box {
+  margin-left: 100px; /* Adds space before the contact form */
+}
 .style-two .accordion li {
   position: relative;
   list-style: none;
@@ -2456,7 +2462,7 @@ div#status {
   background: #0b182c;
 }
 .style-two .contact-form-box {
-  background: #11213b;
+  background: #1a1a1b;
   padding: 25px 40px 40px;
   border-radius: 8px;
 }

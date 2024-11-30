@@ -85,7 +85,7 @@ input[type="text"]::placeholder , input[type="email"]::placeholder{
 .cc-feature-con {
     background-color: var(--cc-black-light-color);
     width: 120%;
-    padding: 20px 32px 39px;
+    padding: 20px 32px 42px;
     border-radius: 14px;
     margin: 0 auto;
     left: -24px;

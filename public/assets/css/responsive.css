@@ -672,7 +672,7 @@ td {
 .from-box2 button {
     right: 196px;
     font-size: 15px;
-    padding: 13px 23px;: 30px;
+    padding: 13px 23px 30px;
     font-weight: 400;
 }
 .style-two.footer-middle {
@@ -1344,7 +1344,7 @@ td {
 	display: none;
 }
 .style-two .dreamit-hero-thumb {
-    display: none;
+    margin-top: 20px;
 }
 .style-two.hero-section {
     height: 650px;
@@ -1356,7 +1356,7 @@ td {
     display: none;
 }
 .style-two .dreamit-hero-thumb {
-    display: none;
+    margin-top: 20px;
 }
 .style-two.hero-section {
     height: 650px;
