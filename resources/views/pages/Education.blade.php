@@ -130,7 +130,7 @@
 
     <!--Article Section-->
     <section
-        class=" md:h-auto w-full flex flex-wrap justify-center items-center md:py-40 py-20 md:px-20 px-5 md:mt-5 mt-10">
+        class=" md:h-auto w-full flex flex-wrap justify-center items-center md:py-40 py-20 md:px-20 px-5 md:mt-5 mt-10 ">
         <div class="max-w-screen-xl flex justify-center ">
             <div class=" w-full p-2 md:flex justify-between md:space-x-4 md:space-y-0 space-y-5">
                 <div class=" md:w-3/12 md:pr-5 ">
@@ -551,7 +551,7 @@
 
                         <div style="text-align: justify;">&nbsp;</div>
                         <div style="text-align: justify;"><span style="text-decoration: underline;"><strong><span
-                                        style="font-size: 14pt;">අප සමග ඔබට ලැබෙන වාසි මොනවද ?</span></strong></span>
+                                        style="font-size: 14pt;">අප සමග ඔබට ලැබෙන වාසි මොනවද ? </span></strong></span>
                         </div>
                         <div style="text-align: justify;">&nbsp;</div>
                         <div style="text-align: justify;"><span style="font-size: 12pt;">අපි කලින් සදහන් කරා වගේ 2010
