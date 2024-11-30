@@ -3163,7 +3163,7 @@ div#status {
 /*-- ===============//about area start here \\================= */
 
 .about-area {
-  background: #0d182e;
+  background: #0d0d0d;
 }
 .about-check-text p {
   margin-bottom: 5px;
@@ -3202,6 +3202,11 @@ div#status {
 }
 /*-- ===============//feature area start here \\================= */
 
+.feature-area{
+  background-color:#0d0d0d !important;
+  
+}
+
 .upper1.dreamit-section-title h4:before {
   position: inherit;
 }
@@ -3210,7 +3215,7 @@ div#status {
 }
 /*-- ===============//skill area start here \\================= */
 .skill-area {
-  background: #091326;
+  background: #0d0d0d;
 }
 p.skill-text {
   padding: 25px 0 7px;
@@ -3379,7 +3384,7 @@ p.skill-text {
     Criptobit pricing area  Css  
  ==========================================*/
 .pricing-area {
-  background: #0a1527;
+  background: #0d0d0d;
   margin-top: -2px;
 }
 .pricing-single-box {
