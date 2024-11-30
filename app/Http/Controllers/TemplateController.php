@@ -40,4 +40,8 @@ class TemplateController extends Controller
     {
         return view('pages.Contact');
     }
+    public function privacy()
+    {
+        return view('pages.Privacy');
+    }
 }

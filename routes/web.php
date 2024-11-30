@@ -10,3 +10,4 @@ route::get('/pricing',[TemplateController::class,'pricing']);
 route::get('/blog',[TemplateController::class,'blog']);
 route::get('/blogdetails',[TemplateController::class,'blogdetails']);
 route::get('/contact',[TemplateController::class,'contact']);
+route::get('/privacy',[TemplateController::class,'privacy']);
