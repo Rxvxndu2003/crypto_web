@@ -922,6 +922,7 @@ span.right-reply {
 .cryptobit_nav_manu {
     display: none;
 }
+
 .style-two.hero-section {
     background: #050603;
 }
@@ -1337,6 +1338,14 @@ td {
 .testi-text p {
     font-size: 14px;
 }
+.testimonial-counter-thumb{
+    margin-bottom: 10%;
+    
+}
+.counter-thumb img{
+    width: 100% !important;
+    height: 250px !important;
+}
 
 }
 @media only screen and (min-width: 220px) and (max-width: 340px) {
@@ -1354,6 +1363,10 @@ td {
 @media only screen and (min-width: 320px) and (max-width: 599px) {
 .cryptobit_nav_manu {
     display: none;
+}
+.mobile-menu-area .mobile-menu {
+    background: #ffbc00 !important;
+    background-color: #050603 !important;
 }
 .style-two .dreamit-hero-thumb {
     margin-top: 20px;
@@ -1567,13 +1580,17 @@ div#countdown span {
     font-size: 24px;
     font-weight: 600;
     display: block;
+   
 }
+
 .style-two.dreamit-section-title h1 {
     font-size: 20px;
     line-height: 23px;
+  
 }
 .style-two .feature-title p {
     font-size: 14px;
+    
 }
 .about-thumb-inner img {
     width: 8%;
@@ -1581,6 +1598,7 @@ div#countdown span {
 .style-two.services-area .dreamit-section-title h1 {
     font-size: 18px;
     line-height: 20px;
+
 }
 .row.service-bg .dreamit-section-title p {
     font-size: 11px;
@@ -1589,6 +1607,7 @@ div#countdown span {
     padding-top: 40px;
 }
 .about-button2 {
+    
     margin: 2%;
     text-align: center;
 }
@@ -1603,6 +1622,7 @@ div#countdown span {
 }
 .about-button2.text-right {
     text-align: center;
+    margin-left: -60% !important;
 }
 .about-button2 a {
     font-size: 14px;
@@ -1920,11 +1940,21 @@ span.right-reply {
 }
 .service-main-thumb img {
     width: 100%;
+   
 }
 .testimonial-counter-title{
     text-align: center;
     margin-left: 20%;
    
+}
+.testimonial-counter-thumb{
+    margin-bottom: 10%;
+    
+    
+}
+.counter-thumb img{
+    width: 100% !important;
+    height: 250px !important;
 }
 
 

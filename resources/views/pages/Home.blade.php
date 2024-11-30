@@ -86,9 +86,9 @@
 </div>
 <!-- Cryptobit Mobile Menu Area -->
 <div class="mobile-menu-area d-sm-block d-md-block d-lg-none ">
-    <div class="mobile-menu">
-        <nav class="cripto_menu">
-            <ul class="nav_scroll">
+    <div class="mobile-menu" >
+        <nav class="cripto_menu" >
+            <ul class="nav_scroll" >
                 <li><a href="/">Home</a>
                 </li>
                 <li><a href="/about">About</a></li>
@@ -472,9 +472,9 @@
         <div class="row wow fadeInLeft" data-wow-delay=".3s">
              <div class="col-lg-6 col-md-6">
                  <div class="dreamit-section-title style-two pb-5">
-                    <h4>CLIENT STORY</h4>
-                    <h1>Golddit Clients</h1>
-                    <h1>Testimonials</h1>
+                    <h4 style="text-align:left">CLIENT STORY</h4>
+                    <h1 style="text-align:left">Golddit Clients</h1>
+                    <h1 style="text-align:left">Testimonials</h1>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6">

@@ -1982,13 +1982,7 @@ a.active:before {
 .faq-area.style-two {
   background: #050603;
 }
-.accordion-menu {
-  margin-left: 40px; /* Adds space between the FAQ and the form */
-}
 
-.contact-form-box {
-  margin-left: 100px; /* Adds space before the contact form */
-}
 .style-two .accordion li {
   position: relative;
   list-style: none;
@@ -2462,7 +2456,7 @@ div#status {
   background: #0b182c;
 }
 .style-two .contact-form-box {
-  background: #1a1a1b;
+  background: #11213b;
   padding: 25px 40px 40px;
   border-radius: 8px;
 }
@@ -4276,55 +4270,4 @@ div#particles .slider-thumb {
 .loaded .loader {
   top: -100%;
   opacity: 0;
-}
-
-
-.sidebar {
-  background-color: #f4f4f4;
-  width: 20%;
-  padding: 15px;
-  box-shadow: 2px 0 5px rgba(0,0,0,0.1);
-}
-
-.sidebar h3 {
-  margin: 10px 0;
-  cursor: pointer;
-}
-
-.content {
-  width: 80%;
-  padding: 20px;
-}
-
-.content h1 {
-  font-size: 24px;
-  margin-bottom: 10px;
-}
-
-.top-brokers {
-  margin-top: 20px;
-}
-
-.broker {
-  display: flex;
-  align-items: center;
-  margin-bottom: 15px;
-}
-
-.broker img {
-  height: 50px;
-  margin-right: 10px;
-}
-
-button {
-  background-color: #28a745;
-  color: white;
-  border: none;
-  padding: 10px 15px;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-button:hover {
-  background-color: #218838;
 }
