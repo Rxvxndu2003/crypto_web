@@ -697,79 +697,45 @@
 <!--==================================================-->
 
 <!-- ===============//faq section start here \\================= -->
-<div class="faq-area style-two pt-100 pb-100">
+<div class="faq-area style-two pt-100">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <div class="dreamit-section-title text-center upper1 pb-70" data-wow-delay=".3s">
+                <div class="dreamit-section-title style-two pb-2">
                     <h4>FAQ</h4>
-                    <h1 class="section-title">Frequently Q/A</h1>
-                    <p class="section-text">Goddit offers expert gold trading signals with clear buy/sell
-                    <br>Alerts to help you trade smarter and profit more.</p>
+                    <h1>Frequently Q/A</h1>
+                    <p class="section-text">Globally network emerging action items with best-of-breed core <br>Efficiently build end-to-end mindshare</p>
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12">
-                <div class="accordion-menu wow fadeInLeft" data-wow-delay=".5s">
+                <div class="accordion-menu">
                     <ul class="accordion">
                         <li>
-                            <a>What is a gold trading signal?</a>
-                            <p>A gold trading signal is a recommendation on when to buy or sell gold, with entry and exit points, stop-loss, and take-profit levels, based on expert market analysis.</p>
-                        </li>
-                        <li>
-                            <a>How reliable are the signals?</a>
+                            <a>What is Blockchain?</a>
                             <p>Globally network emerging action items with best-of-breed core Efficiently build end-to-end mindshare cultivate top-line web-readiness before 24/7 scenarios.</p>
                         </li>
                         <li>
-                            <a>How do I start using the service?</a>
+                            <a>Can I Transections Using Tokens?</a>
+                            <p>Globally network emerging action items with best-of-breed core Efficiently build end-to-end mindshare cultivate top-line web-readiness before 24/7 scenarios.</p>
+                        </li>
+                        <li>
+                            <a>How can I create a crypto-wallet?</a>
                             <p>Globally network emerging action items with best-of-breed core Efficiently build end-to-end mindshare cultivate top-line web-readiness before 24/7 scenarios.</p>
                         </li>
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-12">
-            <div class="row">
-                    <div class="contact-form-box wow fadeInLeft" data-wow-delay=".4s">
-                         <div class="contact-form-title">
-                            <h3>Seeking Information?</h3>
-                         </div> 
-                        <form action="https://formspree.io/f/myyleorq" method="POST" id="dreamit-form">
-                            <div class="row">
-                                <div class="col-lg-12 col-sm-12">
-                                    <div class="from-box">
-                                        <input type="text" name="name" placeholder="Your Name">
-                                    </div>
-                                </div>
-                                <div class="col-lg-12  col-sm-12">
-                                    <div class="from-box">
-                                        <input type="text" name="phone" placeholder="Enter E-Mail">
-                                    </div>
-                                </div>
-                                <div class="col-lg-12 col-sm-12">
-                                    <div class="from-box">
-                                        <input type="text" name="mail" placeholder="Subject">
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="from-box">
-                                        <textarea name="massage" id="massage" placeholder="Message"></textarea>
-                                    </div>                                  
-                                </div>
-                            </div>
-                            <div class="from-box">
-                                <button type="submit">Send Message</button>
-                            </div>
-                        </form>
-                        <div id="status"></div>
-                    </div>
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="faq-single-thumb">
+                    <img src="assets/images/resource/faq1.png" alt="">
                 </div>
             </div>
         </div>
     </div>
 </div>
 <!-- ===============//faq section end here \\=================== -->
-
 
 <!--==================================================-->
 <!-- Start Cryptobit Footer Middle Area -->
