@@ -296,18 +296,12 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12">
-                        <div class="widget-nav-menu upper1 wow fadeInLeft" data-wow-delay=".7s">
-                            <h4 class="widget-title">Newsletter</h4>
+                    <div class="widget-nav-menu upper1 wow fadeInLeft" data-wow-delay=".7s">
+                            <h4 class="widget-title">Company Address</h4>
                             <div class="menu-quick-link">
-                                <p>Get now free 20% discount for all products on your first order</p>
-                            </div>
-                            <div class="contact-form-box-2 text-center">
-                                <form>
-                                    <div class="from-box1">
-                                        <input type="text" placeholder="Enter Your E-Mail">
-                                        <button><i class="fa fa-paper-plane"></i></button>  
-                                    </div>
-                                </form>
+                                <p>Address <br>10 south building dhaka</p>
+                                <p>Telephone <br>07182812</p>
+                                <p>Email <br> hellow @ GAMIL.COM</p>
                             </div>
                         </div> 
                     </div>

@@ -1142,6 +1142,7 @@ td {
 }
 .about-button2.text-right {
     text-align: left;
+    
 }
 .testimonial-counter-title {
     left: 82px;
@@ -1621,8 +1622,9 @@ div#countdown span {
     font-size: 14px;
 }
 .about-button2.text-right {
-    text-align: center;
-    margin-left: -60% !important;
+    text-align: left;
+    
+    
 }
 .about-button2 a {
     font-size: 14px;
@@ -1942,9 +1944,10 @@ span.right-reply {
     width: 100%;
    
 }
-.testimonial-counter-title{
+.testimonial-counter-title h3{
     text-align: center;
-    margin-left: 20%;
+    margin-left: 10%;
+   
    
 }
 .testimonial-counter-thumb{
@@ -1956,6 +1959,8 @@ span.right-reply {
     width: 100% !important;
     height: 250px !important;
 }
-
+.hero-thumb-inner6 img{
+    display: none;
+}
 
 }

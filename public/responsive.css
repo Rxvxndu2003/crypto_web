@@ -249,12 +249,25 @@
     .cc-feature-content {
         justify-content: space-evenly;
         flex-wrap: wrap;
+       
     }
     .cc-feature-card {
         width: 35%;
-        margin-bottom: 40px;
+        margin-bottom: 100px;
         left: 24px;
         height: auto;
+        display: block;
+        
+        
+    .cc-feat-con:hover{
+            display: block;
+    }
+        
+    }
+    .cc-feature-card:hover{
+        display: block;
+        justify-content: space-evenly;
+        position: relative;
     }
     .cc-feature-title p {
         width: 75%;
